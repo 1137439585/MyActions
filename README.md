@@ -177,7 +177,7 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 2. 确保.github/pull.yml文件正常存在，yml内上游作者填写正确(此项目已填好，无需更改)。
 3. 将pull.yml里面的`mergeMethod: hardreset`修改为`mergeMethod: merge`保存。
 4. ENJOY!上游更改三小时左右就会自动发起同步。
-
+cy
 ## 鸣谢
 
 [@NobyDa](https://github.com/NobyDa) - 京东每日签到

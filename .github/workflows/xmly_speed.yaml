@@ -31,3 +31,4 @@ jobs:
                   XMLY_ACCUMULATE_HOURS: ${{ secrets.XMLY_ACCUMULATE_HOURS }}
                   XMLY_ANDROID_AGENT: ${{ secrets.XMLY_ANDROID_AGENT }}
                   SYNCURL: https://github.com/Zero-S1/xmly_speed/raw/master/xmly_speed.py
+

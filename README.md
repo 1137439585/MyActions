@@ -178,7 +178,7 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 3. 将pull.yml里面的`mergeMethod: hardreset`修改为`mergeMethod: merge`保存。
 4. ENJOY!上游更改三小时左右就会自动发起同步。
 
-## 鸣谢
+##鸣谢11
 
 [@NobyDa](https://github.com/NobyDa) - 京东每日签到
 

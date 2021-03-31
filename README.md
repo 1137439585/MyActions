@@ -28,7 +28,7 @@
 
 FORK后，如果actions没有定时执行，请随便找个文件，加个空格提交一下，就可以正常执行了
 
-## 使用教程
+## 使用教程1
 
 1. 直接fork走
 2. 再在`Settings`-`Secrets`里面添加`JD_COOKIE`

@@ -1,6 +1,6 @@
 ![sazs34’s github stats](https://github-readme-stats.vercel.app/api?username=sazs34&show_icons=true&theme=vue)
 
-# MyActions
+# MyActions 
   
 ### 本项目已可以实现自动同步上游更改！[具体点击](#自动同步)
 

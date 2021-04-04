@@ -39,4 +39,4 @@ jobs:
                   jdFruitBeanCard: ${{ secrets.FRUIT_BEAN_CARD }}
                   FruitShareCodes: ${{ secrets.FruitShareCodes }}
                   FRUIT_NOTIFY_CONTROL: ${{ secrets.FRUIT_NOTIFY_CONTROL }}
-                  SYNCURL: https://github.com/lxk0301/scripts/raw/master/jd_fruit.js
+                  SYNCURL: https://raw.githubusercontent.com/tanquan/MyActions/master/jd_fruit.js

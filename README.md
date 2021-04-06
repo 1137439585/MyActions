@@ -1,7 +1,7 @@
 ![sazs34’s github stats](https://github-readme-stats.vercel.app/api?username=sazs34&show_icons=true&theme=vue)
 
-# MyActions
-
+# MyActions 
+  
 ### 本项目已可以实现自动同步上游更改！[具体点击](#自动同步)
 
 目前[@lxk0301](https://github.com/lxk0301) 的代码都支持无限账号了，各位可以直接使用那边的了呢
@@ -28,7 +28,7 @@
 
 FORK后，如果actions没有定时执行，请随便找个文件，加个空格提交一下，就可以正常执行了
 
-## 使用教程
+## 使用教程1
 
 1. 直接fork走
 2. 再在`Settings`-`Secrets`里面添加`JD_COOKIE`
@@ -184,4 +184,4 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 
 [@lxk0301](https://github.com/lxk0301)  - 京东系列其他签到
 
-[@Zero-S1](https://github.com/Zero-S1/xmly_speed) - 喜马拉雅极速版签到
+[@Zero-S1](https://github.com/Zero-S1/xmly_speed) - 喜马拉雅极速版签到 
